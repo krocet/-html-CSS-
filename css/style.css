@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+    max-width: 895px;
+    width: 100%;
+    margin: 0 auto;
+    color: #000000;
+    font-style: italic;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+}
+
+.page {
+    width: 895px;
+    height: 1270px;
+    background-image: url(../images/listA1.jpg);
+    background-size: contain;
+    background-repeat: repeat-y;
+    background-position: center;
+    padding: 143px;
+    box-sizing: border-box;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: 500;
+    font-style: nor;
+    margin-bottom: 12px;
+    line-height: 24px;
+}
+
+.paragraph {
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 20px;
+}
+
+.subtitle {
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    margin-bottom: 12px;
+    line-height: 24px;
+}
+
+.number_1 {
+    font-size: 27px;
+    font-weight: 500;
+    font-style: normal;
+    margin-bottom: -85px;
+    line-height: 210px;
+}
+
+.number_2 {
+    font-size: 27px;
+    font-weight: 500;
+    font-style: normal;
+    margin-bottom: -19px;
+    line-height: 76px;
+}
+
+.number_3 {
+    font-size: 27px;
+    font-weight: 500;
+    font-style: normal;
+    margin-bottom: -280px;
+    line-height: 600px;
+}
